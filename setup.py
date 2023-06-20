@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='shift-ip',  
-     version='1.0.0',
+     version='1.0.1',
      scripts=['shift-ip'] ,
      author="Najib Rachid",
      description="SHIFT is a penetration testing tool designed to help you identify the IP addresses of shared hosting associated with a specific domain. It checks each IP address to determine if the domain is hosted on that IP.",
