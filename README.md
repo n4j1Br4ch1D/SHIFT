@@ -41,6 +41,10 @@ shift IP DOMAIN
 ```sh
 shift 127.0.0.1/24 example.com
 ```
+**Request headers**
+
+- `Host header` is automatically added. In HTTP it specifies the target server's domain or host name, enabling clients to access specific domains or subdomains hosted on servers with multiple websites.
+
 **Check criteria**
 
 - `Namecheap` shared hosting: valid IP has redirect status response code `301`. 
