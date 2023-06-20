@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-     name='shift',  
+     name='shift-ip',  
      version='1.0.0',
      scripts=['shift'] ,
      author="Najib Rachid",

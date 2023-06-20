@@ -27,7 +27,7 @@ Manually determining the correct IP address for a domain hosted on shared hostin
 
 ## Install
 ```sh
-pip install SHIFT 
+pip install shift-ip 
 
 ```
 
