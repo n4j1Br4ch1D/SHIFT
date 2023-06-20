@@ -34,12 +34,12 @@ pip install shift-ip
 ## Usage
 **Syntax**
 ```sh
-shift IP DOMAIN
+shift-ip IP DOMAIN
 ```
 
 -  Check IP addresses range: between `1` and `24`.
 ```sh
-shift 127.0.0.1/24 example.com
+shift-ip 127.0.0.1/24 example.com
 ```
 **Request headers**
 
