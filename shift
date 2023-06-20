@@ -10,7 +10,7 @@ def print_tool_info():
 /\__/ /| | | | _| |_ | |      | |  
 \____/ \_| |_/ \___/ \_| [IP] \_/
 ______________ V1.0.0 ______________
-SHIFT: Shared Hosting IP Finder Tool. 
+SHIFT: Shared Hosting IP Finder Tool.
 https://github.com/n4j1Br4ch1D/SHIFT
 ------------------------------------
  """
